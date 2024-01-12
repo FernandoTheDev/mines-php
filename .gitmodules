@@ -1,0 +1,3 @@
+[submodule "lib/setup-php"]
+	path = lib/setup-php
+	url = https://github.com/fernandothedev/setup-php/
